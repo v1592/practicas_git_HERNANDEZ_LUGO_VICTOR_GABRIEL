@@ -1,1 +1,2 @@
-este archivo fue modificado desde github
+texto inicial pracica
+Este archvo fue modificado desde el repositorio local
